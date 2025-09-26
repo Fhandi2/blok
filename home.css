@@ -29,11 +29,11 @@ body {
 }
 
 .navbar img {
-    width: clamp(18px, 8vw, 50px);
+    width: clamp(18px, 10vw, 50px);
 }
 
 .navbar i {
-    font-size: clamp(16px, 4vw, 40px);
+    font-size: clamp(16px, 8vw, 40px);
 }
 
 .navbar .menu-nav {
@@ -119,12 +119,12 @@ body {
 
 .page-one h1 {
     font-family: "Poppins", sans-serif;
-    font-size: clamp(16px, 7vw, 50px);
+    font-size: clamp(16px, 9vw, 50px);
 }
 
 .page-one p{
     font-family: "Lexend Deca", sans-serif;
-    font-size: clamp(2px, 2vw, 16px);
+    font-size: clamp(2px, 5vw, 16px);
 }
 
 button {
